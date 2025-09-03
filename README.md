@@ -26,7 +26,7 @@ Python 기반 데이터 처리부터 Unreal Engine 게임 제작, React · Node.
     <td><img width="400px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kimhotae9270&theme=tokyonight" /></td>
   </tr>
   <tr>
-    <td><img width="400px" src="https://github-profile-trophy.vercel.app/?username=kimhotae9270&theme=onedark&row=1&column=3" /></td>
+    <td><img width="400px" src="https://github-profile-trophy.vercel.app/?username=kimhotae9270&theme=onedark&row=1&column=2" /></td>
     <td><img width="400px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kimhotae9270&theme=tokyonight" /></td>
   </tr>
 </table>
