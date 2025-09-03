@@ -20,9 +20,9 @@ Python 기반 데이터 처리부터 Unreal Engine 게임 제작, React · Node.
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhotae9270&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kimhotae9270&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=kimhotae9270&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhotae9270&layout=compact&theme=tokyonight&hide_border=true)  
-![trophy](https://github-profile-trophy.vercel.app/?username=kimhotae9270&theme=onedark&row=1&column=6)
+![trophy](https://github-profile-trophy.vercel.app/?username=kimhotae9270&theme=onedark&row=1&column=3)
 
 ---
 
