@@ -19,7 +19,7 @@ Python 기반 데이터 처리부터 Unreal Engine 게임 제작, React · Node.
 
 ## 📊 GitHub Stats
 
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_ID&theme=onedark&row=1&column=6)
+![trophy](https://github-profile-trophy.vercel.app/?username=kimhotae9270&theme=onedark&row=1&column=6)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhotae9270&layout=compact&theme=radical)
 
 ---
