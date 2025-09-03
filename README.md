@@ -19,9 +19,16 @@ Python 기반 데이터 처리부터 Unreal Engine 게임 제작, React · Node.
 
 ## 📊 GitHub Stats
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kimhotae9270&theme=tokyo-night&days=7&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhotae9270&layout=compact&theme=tokyonight&hide_border=true)  
-![trophy](https://github-profile-trophy.vercel.app/?username=kimhotae9270&theme=onedark&row=1&column=3)
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kimhotae9270&theme=tokyonight" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kimhotae9270&theme=tokyonight" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kimhotae9270&theme=tokyonight" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kimhotae9270&theme=tokyonight" /></td>
+  </tr>
+</table>
 
 ---
 
