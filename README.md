@@ -21,6 +21,7 @@ Python 기반 데이터 처리부터 Unreal Engine 게임 제작, React · Node.
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastMCP-0078D4?style=for-the-badge&logo=fastmcp&logoColor=white"/>
 </p>
 
 ---
