@@ -1,7 +1,7 @@
 # 👋 안녕하세요, 김호태입니다!
 
 저는 게임 개발과 AI 개발에 관심 있는 개발자입니다.  
-Python 기반 데이터 처리부터 Unreal Engine 게임 제작, React · Node.js 웹 서비스까지  
+Python 기반 데이터 처리부터 AI, React · Node.js · FastAPI 웹 서비스, Unreal Engine 게임 제작까지  
 다양한 분야를 탐구하며 성장하고 있습니다.  
 
 ---
