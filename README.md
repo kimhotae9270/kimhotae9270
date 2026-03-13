@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi, I'm 김호태 (Kim Hotae)</h1>
+
 <h3 align="center">🤖 AI Agent Developer</h3>
 
 <p align="center">
@@ -11,9 +12,13 @@ LLM · AI Model · Backend API · Web Service를 연결하여<br>
 AI Agents · LLM Applications · Backend Systems
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Agent+Developer;LLM+Application+Engineer;Backend+Developer&center=true&width=500&height=45">
+</p>
+
 ---
 
-<h1 align="center">🚀 Highlight Projects</h1>
+<h2 align="center">🚀 Highlight Projects</h2>
 
 <table align="center">
 <tr>
@@ -116,7 +121,7 @@ Claude Desktop 기반 <b>MCP 서버 구현</b>
 
 ---
 
-# 🧠 Tech Stack
+<h2 align="center">🧠 Tech Stack</h2>
 
 <p align="center">
 
@@ -139,7 +144,7 @@ Claude Desktop 기반 <b>MCP 서버 구현</b>
 
 ---
 
-# 🧠 Algorithm
+<h2 align="center">🧠 Algorithm</h2>
 
 <p align="center">
 <a href="https://solved.ac/kimho9270">
@@ -148,20 +153,20 @@ Claude Desktop 기반 <b>MCP 서버 구현</b>
 </p>
 
 <p align="center">
-백준 알고리즘 문제 풀이를 통해 <b>문제 해결 능력과 알고리즘 역량</b>을 꾸준히 향상시키고 있습니다.
+Algorithm problem solving through <b>Baekjoon Online Judge</b>
 </p>
 
 ---
 
-# 📈 GitHub Activity
+<h2 align="center">📈 GitHub Activity</h2>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kimhotae9270&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kimhotae9270&theme=tokyo-night"/>
 </p>
 
 ---
 
-# 📫 Contact
+<h2 align="center">📫 Contact</h2>
 
 <p align="center">
 
