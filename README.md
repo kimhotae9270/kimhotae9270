@@ -13,111 +13,72 @@ AI Agents · LLM Applications · Backend Systems
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Agent+Developer;LLM+Application+Engineer;Backend+Developer&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Agent+Developer;LLM+Application+Engineer;Backend+Developer"/>
 </p>
 
 ---
 
 <h2 align="center">🚀 Highlight Projects</h2>
 
-<table align="center">
-<tr>
+---
 
-<td width="50%" valign="top">
+### 🤖 CUK Agent
+**LangGraph 기반 AI Agent 시스템**
 
-<h3>🤖 CUK Agent</h3>
+LangGraph 기반 Agent workflow와 FastAPI 서버를 이용해  
+Tool Calling 기반 AI Agent 시스템을 구현했습니다.
 
-LangGraph 기반 <b>AI Agent 시스템</b>
+**Tech**
 
-<b>주요 기능</b>
+`Python` `FastAPI` `LangGraph` `GPT API` `Google OAuth`
 
-- LangGraph 기반 Agent Workflow
-- FastAPI 기반 Agent API
-- Google OAuth 로그인
-- GPT API 질의응답
-- Tool Calling Agent 구조
+🔗 Repository  
+https://github.com/CUK-MCP/CUK_MCP
 
-<b>Tech</b>
+---
 
-`Python` `FastAPI` `LangGraph`  
-`GPT API` `Google OAuth`
+### 🎨 AI Image Generation Service
+**Stable Diffusion 기반 동화 이미지 생성 서비스**
 
-🔗 <a href="https://github.com/CUK-MCP/CUK_MCP">Repository</a>
+LoRA 파인튜닝을 통해 동화 스타일 이미지를 생성하고  
+React + FastAPI 기반 웹 서비스로 구현했습니다.
 
-</td>
+**Tech**
 
-<td width="50%" valign="top">
+`Python` `PyTorch` `Stable Diffusion` `LoRA` `React` `FastAPI`
 
-<h3>🎨 AI Image Generation Service</h3>
+🔗 Repository  
+https://github.com/Childrens-Fairy-Tale-Service
 
-Stable Diffusion 기반 <b>동화 이미지 생성 서비스</b>
+---
 
-<b>주요 기능</b>
+### 📊 Demand Forecasting Model
+**LG Aimers 수요 예측 AI 모델**
 
-- LoRA 파인튜닝 (25k dataset)
-- 동화 스타일 이미지 생성
-- 퀴즈 생성 기능
-- React + FastAPI 웹 서비스
+시계열 데이터 기반 수요 예측 모델을 구축하고  
+ML Ensemble 방식으로 성능을 개선했습니다.
 
-<b>Tech</b>
+**Tech**
 
-`Python` `PyTorch`  
-`Stable Diffusion` `LoRA`  
-`React` `FastAPI`
+`Python` `Pandas` `LightGBM` `XGBoost` `N-BEATS` `SARIMAX`
 
-🔗 <a href="https://github.com/Childrens-Fairy-Tale-Service">Repository</a>
+🔗 Repository  
+https://github.com/kimhotae9270/LGAimer
 
-</td>
+---
 
-</tr>
+### 🧠 CUK MCP Server
+**Claude Desktop 기반 MCP 서버**
 
-<tr>
+Model Context Protocol 기반 서버를 구현하고  
+학교 정보 검색 도구를 제공하는 MCP Tool을 개발했습니다.
 
-<td width="50%" valign="top">
-
-<h3>📊 Demand Forecasting Model</h3>
-
-LG Aimers <b>수요 예측 AI 모델</b>
-
-<b>주요 기능</b>
-
-- 시계열 수요 예측
-- ML Ensemble 모델
-- Feature Engineering
-
-<b>Tech</b>
-
-`Python` `Pandas`  
-`LightGBM` `XGBoost`  
-`N-BEATS` `SARIMAX`
-
-🔗 <a href="https://github.com/kimhotae9270/LGAimer">Repository</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🧠 CUK MCP Server</h3>
-
-Claude Desktop 기반 <b>MCP 서버 구현</b>
-
-<b>주요 기능</b>
-
-- Model Context Protocol 서버 개발
-- Claude Desktop 연동
-- 학교 정보 검색 도구 제공
-- MCP Tool Interface 구현
-
-<b>Tech</b>
+**Tech**
 
 `Python` `FastAPI` `MCP`
 
-🔗 <a href="https://github.com/CUK-MCP/CUK_MCP">Repository</a>
-
-</td>
-
-</tr>
-</table>
+🔗 Repository  
+https://github.com/CUK-MCP/CUK_MCP
 
 ---
 
