@@ -146,9 +146,9 @@ https://github.com/CUK-MCP/CUK_MCP
 # 🧠 Algorithm
 
 <p align="center">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimho9270)](https://solved.ac/kimho9270)
-
+<a href="https://solved.ac/kimho9270">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimho9270"/>
+</a>
 </p>
 
 <p align="center">
