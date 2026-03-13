@@ -18,13 +18,13 @@ AI Agents · LLM Applications · Backend Systems
 <table align="center">
 <tr>
 
-<td width="50%" align="left">
+<td width="50%" valign="top">
 
-## 🤖 CUK Agent
+<h3>🤖 CUK Agent</h3>
 
-LangGraph 기반 **AI Agent 시스템**
+LangGraph 기반 <b>AI Agent 시스템</b>
 
-**주요 기능**
+<b>주요 기능</b>
 
 - LangGraph 기반 Agent Workflow
 - FastAPI 기반 Agent API
@@ -32,37 +32,35 @@ LangGraph 기반 **AI Agent 시스템**
 - GPT API 질의응답
 - Tool Calling Agent 구조
 
-**Tech**
+<b>Tech</b>
 
 `Python` `FastAPI` `LangGraph`  
 `GPT API` `Google OAuth`
 
-🔗 Repository  
-https://github.com/CUK-MCP/CUK_MCP
+🔗 <a href="https://github.com/CUK-MCP/CUK_MCP">Repository</a>
 
 </td>
 
-<td width="50%" align="left">
+<td width="50%" valign="top">
 
-## 🎨 AI Image Generation Service
+<h3>🎨 AI Image Generation Service</h3>
 
-Stable Diffusion 기반 **동화 이미지 생성 서비스**
+Stable Diffusion 기반 <b>동화 이미지 생성 서비스</b>
 
-**주요 기능**
+<b>주요 기능</b>
 
 - LoRA 파인튜닝 (25k dataset)
 - 동화 스타일 이미지 생성
 - 퀴즈 생성 기능
 - React + FastAPI 웹 서비스
 
-**Tech**
+<b>Tech</b>
 
 `Python` `PyTorch`  
 `Stable Diffusion` `LoRA`  
 `React` `FastAPI`
 
-🔗 Repository  
-https://github.com/Childrens-Fairy-Tale-Service
+🔗 <a href="https://github.com/Childrens-Fairy-Tale-Service">Repository</a>
 
 </td>
 
@@ -70,48 +68,46 @@ https://github.com/Childrens-Fairy-Tale-Service
 
 <tr>
 
-<td width="50%" align="left">
+<td width="50%" valign="top">
 
-## 📊 Demand Forecasting Model
+<h3>📊 Demand Forecasting Model</h3>
 
-LG Aimers **수요 예측 AI 모델**
+LG Aimers <b>수요 예측 AI 모델</b>
 
-**주요 기능**
+<b>주요 기능</b>
 
 - 시계열 수요 예측
 - ML Ensemble 모델
 - Feature Engineering
 
-**Tech**
+<b>Tech</b>
 
 `Python` `Pandas`  
 `LightGBM` `XGBoost`  
 `N-BEATS` `SARIMAX`
 
-🔗 Repository  
-https://github.com/kimhotae9270/LGAimer
+🔗 <a href="https://github.com/kimhotae9270/LGAimer">Repository</a>
 
 </td>
 
-<td width="50%" align="left">
+<td width="50%" valign="top">
 
-## 🧠 CUK MCP Server
+<h3>🧠 CUK MCP Server</h3>
 
-Claude Desktop 기반 **MCP 서버 구현**
+Claude Desktop 기반 <b>MCP 서버 구현</b>
 
-**주요 기능**
+<b>주요 기능</b>
 
 - Model Context Protocol 서버 개발
 - Claude Desktop 연동
 - 학교 정보 검색 도구 제공
 - MCP Tool Interface 구현
 
-**Tech**
+<b>Tech</b>
 
 `Python` `FastAPI` `MCP`
 
-🔗 Repository  
-https://github.com/CUK-MCP/CUK_MCP
+🔗 <a href="https://github.com/CUK-MCP/CUK_MCP">Repository</a>
 
 </td>
 
