@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6366F1&height=200&section=header&text=Kim%20Hotae&fontSize=40&fontColor=ffffff"/>
+</p>
 <h1 align="center">👋 Hi, I'm 김호태 (Kim Hotae)</h1>
 
 <h3 align="center">🤖 AI Agent Developer</h3>
