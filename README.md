@@ -136,23 +136,26 @@ LoRA 파인튜닝을 통해 동화 스타일 이미지를 생성하고 React + F
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kimhotae9270&theme=merko&hide_border=true&bg_color=0D1117&color=4ADE80&line=22c55e&point=4ADE80&area=true&area_color=1B4332" />
+<!-- Row 1 : activity graph full width -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kimhotae9270&theme=merko&hide_border=true&bg_color=0D1117&color=4ADE80&line=22c55e&point=4ADE80&area=true&area_color=1B4332" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kimhotae9270&theme=nord_dark&hide_border=true" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kimhotae9270&theme=nord_dark&hide_border=true" />
+<!-- Row 2 : 3-column summary cards -->
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kimhotae9270&theme=nord_dark&hide_border=true" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kimhotae9270&theme=nord_dark&hide_border=true" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kimhotae9270&theme=nord_dark&hide_border=true&utcOffset=9" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kimhotae9270&theme=nord_dark&hide_border=true&utcOffset=9" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimhotae9270&theme=nord_dark&hide_border=true" />
+<!-- Row 3 : profile-details full width -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimhotae9270&theme=nord_dark&hide_border=true" />
 
-<br/><br/>
+<br/>
 
-<a href="https://solved.ac/kimho9270">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimho9270"/>
-</a>
+<!-- Row 4 : streak + baekjoon side by side -->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=kimhotae9270&theme=merko&hide_border=true&background=0D1117&ring=4ADE80&fire=22c55e&currStreakLabel=4ADE80&sideLabels=86EFAC&dates=86EFAC&sideNums=4ADE80&currStreakNum=4ADE80" />
+<img width="49%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimho9270" />
 
 </div>
 
