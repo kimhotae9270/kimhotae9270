@@ -13,11 +13,12 @@ AI Agents · LLM Applications · Backend Systems
 
 ---
 
-# 🚀 Highlight Projects
+<h1 align="center">🚀 Highlight Projects</h1>
 
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+
+<td width="50%" align="left">
 
 ## 🤖 CUK Agent
 
@@ -41,7 +42,7 @@ https://github.com/CUK-MCP/CUK_MCP
 
 </td>
 
-<td width="50%">
+<td width="50%" align="left">
 
 ## 🎨 AI Image Generation Service
 
@@ -64,10 +65,12 @@ Stable Diffusion 기반 **동화 이미지 생성 서비스**
 https://github.com/Childrens-Fairy-Tale-Service
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
+
+<td width="50%" align="left">
 
 ## 📊 Demand Forecasting Model
 
@@ -90,9 +93,28 @@ https://github.com/kimhotae9270/LGAimer
 
 </td>
 
-<td width="50%">
+<td width="50%" align="left">
+
+## 🧠 CUK MCP Server
+
+Claude Desktop 기반 **MCP 서버 구현**
+
+**주요 기능**
+
+- Model Context Protocol 서버 개발
+- Claude Desktop 연동
+- 학교 정보 검색 도구 제공
+- MCP Tool Interface 구현
+
+**Tech**
+
+`Python` `FastAPI` `MCP`
+
+🔗 Repository  
+https://github.com/CUK-MCP/CUK_MCP
 
 </td>
+
 </tr>
 </table>
 
