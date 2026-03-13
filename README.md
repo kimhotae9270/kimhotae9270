@@ -38,7 +38,7 @@
 ### CUK Agent
 **LangGraph 기반 AI Agent 시스템**
 
-LangGraph 기반 Agent workflow와 FastAPI 서버를 이용해 Tool Calling 기반 AI Agent 시스템을 구현했습니다. Google OAuth 인증을 포함한 실서비스 백엔드까지 개발했습니다.
+LangGraph 기반 Agent workflow와 FastAPI 서버를 이용해 Tool Calling 기반 AI Agent 시스템을 구현했습니다.
 
 ![Python](https://img.shields.io/badge/Python-1B4332?style=flat-square&logo=python&logoColor=4ADE80)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1B4332?style=flat-square&logo=fastapi&logoColor=4ADE80)
